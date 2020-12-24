@@ -16,7 +16,7 @@ import static java.lang.System.out;
 import static java.nio.file.Files.lines;
 import static java.nio.file.Path.of;
 
-public class Day23 {
+public class Day24 {
 
     public static void main(String[] args) throws IOException {
         final List<String> items = lines(of("src/day24/input.txt"))
